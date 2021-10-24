@@ -69,3 +69,13 @@ The service_connection function recieves the incoming data and decodes bytes int
 ![image](https://user-images.githubusercontent.com/83479899/138615755-d5b03b5d-5af3-4de5-ac99-1d59e7115424.png)
 
 The loopback interface detects incomming data or a new connection and calls upon the relevent function, either accept_wrapper or service_connection
+
+SAMPLE INPUT:
+
+![image](https://user-images.githubusercontent.com/83479899/138616180-2c6aa5e6-b1b8-44d4-b7b5-cd9e3c7df141.png)
+
+
+CORRESPONDING OUTPUT:
+
+![image](https://user-images.githubusercontent.com/83479899/138616195-6a7caa39-4c0e-4ad2-a381-7d5562739d66.png)
+
